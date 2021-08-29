@@ -1,0 +1,13 @@
+{
+    "status": "done",
+    "publicPath": "auto",
+    "chunks": {
+        "frontend": [
+            {
+                "name": "frontend-80da7af7e15b904b5a4c.js",
+                "publicPath": "autofrontend-80da7af7e15b904b5a4c.js",
+                "path": "C:\\Users\\ALIREZA\\PycharmProjects\\React_from_Django\\frontend\\static\\frontend\\frontend-80da7af7e15b904b5a4c.js"
+            }
+        ]
+    }
+}
